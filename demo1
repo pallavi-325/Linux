@@ -1,0 +1,12 @@
+### cmd + option + arguments
+ 
+
+1. cat : for the content 
+*** 
+  cat -n abc.text
+-n -> line number print (option)
+abc.text -> argument 
+
+
+*** 
+cat --number abc.text

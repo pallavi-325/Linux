@@ -1,0 +1,52 @@
+1. how to check current loction 
+pwd
+
+2. display current loged in user
+whoami
+
+3. check system date or time 
+date 
+date +%D
+date +%T
+date +%H : %M (hour , mins)
+
+4. display file and directory on current location 
+ls
+ls -lt
+ls -ltr 
+ls -lh
+
+5. clear terminal
+clear
+
+6. display content of a file 
+cat filename.txt
+
+7. read file and search for word
+less filename 
+/press then search pallavi (/ top to bottom search)
+press n for the next existance
+
+
+8. view content of a file page by page  
+more filename
+
+9. create file
+touch filename
+
+10. create folder 
+mkdir foldername
+
+11. delete a file 
+rm filename
+
+12. edit file 
+vi filename -> file create then edit both work
+nano filename 
+
+13. delete directory/ folder
+rmdir <foldername>
+
+
+
+

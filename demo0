@@ -1,0 +1,71 @@
+### what is linux 
+
+linux is a open sourece operating system based on unix.
+its is know as a security , flexbilty
+
+created by linux torvalds 1991
+the name comes form linus + unix
+linux is not a os
+linux is a open source kernal
+
+
+### linux distrubation (distores)
+
+an os made from a software collection which inculdes the linux kernal and often a packages managment system 
+e.g .  ubuntu , centos where we can use linux cmd
+
+### key features 
+
+1. open source
+2. multiusers 
+3. multtasking 
+4. security'
+5. Portablity  : run on various hardware platform
+
+### What is Virtualization?
+Virtualization means running another computer inside your computer using software.
+Example: Your laptop has Windows. You use virtualization to run Ubuntu Linux inside Windows without deleting Windows.
+
+### 2. What is a Virtual Machine (VM)?
+A virtual machine is a computer inside your real computer.
+For example:
+- Your real computer runs Windows.
+- You install VMware.
+- Inside VMware, you run Ubuntu Linux.
+
+###  Why do we need a VM?
+- To use another operating system, like Linux.
+- To practice Linux commands.
+- To test software safely.
+- To learn cybersecurity.
+- To practice without changing our main Windows system.
+
+### Remember this difference
+- Virtualization: The technology.
+- VM: The virtual computer.
+- VMware: The software used to create and run virtual computers.
+
+### but how to setup virtualization by hypervisor
+it is a software that creates and run vm .
+
+#### what is putty ??
+ PuTTY ek software hai jiski help se hum apne computer se kisi doosre computer ya Linux server ko remotely access kar sakte hain aur commands chala sakte hain.
+Example: Maan lo Linux server college mein hai aur tum ghar par ho. PuTTY ki help se tum apne laptop se us Linux server par commands chala sakte ho.
+
+access linux server remotly using ssh
+
+"“PuTTY is a software used to connect to a remote computer or Linux server using SSH and execute commands.”"
+
+eg : 
+
+### winscp tool 
+jo tmahre windows se kisi bhi file ko remotly access kar sakta hai linux per
+file tranfer btw linux and window
+
+
+### want too transfer file btw two linux 
+by scp cmd
+
+
+
+
