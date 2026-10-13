@@ -46,6 +46,29 @@ nano filename
 
 13. delete directory/ folder
 rmdir <foldername>
+rm -rf <foldername>
+
+14. change path or move to another folder
+cd path/folder
+cd..
+
+15. copy and paste a file from one folder to another
+cp  <file> /dest /path
+
+16. copy content of file to another
+cp fileA fileB
+
+17. rename a file 
+mv fileA fileNEWname
+
+18. read and display head of file
+head -5 file
+
+19. read and display tail of file 
+tail -3 file
+
+20. 
+
 
 
 
